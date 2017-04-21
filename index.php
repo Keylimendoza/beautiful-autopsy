@@ -1,5 +1,5 @@
 <?php
-  require "test/index.php";
+  include("tests/index.php");
 
   $output = "<!DOCTYPE html>
               <html>
